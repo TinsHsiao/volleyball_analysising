@@ -2,6 +2,8 @@
 
 環境 : CUDA、Cudnn (請依自己的GPU進行配置)  
   My :python 3.7、cuda 11.5、cudnn 8.3.2.44  
+  
+  
     
 Use:  
 opencv、OpenPose
@@ -11,3 +13,6 @@ framework :
   
 result :  
 ![image](https://github.com/TinsHsiao/volleyball_analysising/assets/91177853/a06d6810-a324-4576-9210-a0123ae8bd93)
+  
+
+基於學術保密原則，僅公開部份程式碼
